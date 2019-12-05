@@ -25,6 +25,7 @@ b) Rodar aplicação em conteiner:
 
 3) Exemplo de chamada no navegador:
 > http://localhost:8080/produtos
+
 > http://localhost:8080/swagger-ui.html
     
 ### References
