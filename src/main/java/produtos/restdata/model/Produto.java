@@ -1,8 +1,5 @@
 package produtos.restdata.model;
 
-import java.time.LocalDateTime;
-import java.util.HashMap;
-
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
