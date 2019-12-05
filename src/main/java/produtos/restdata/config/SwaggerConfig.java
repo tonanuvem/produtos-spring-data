@@ -25,10 +25,6 @@ public class SwaggerConfig {
           .paths(PathSelectors.any())
           .build()
           .apiInfo(apiInfo());
-          // adicionados          
-          //.pathMapping(PATH_MAPPING)
-          //.useDefaultResponseMessages(false);
-
     }
 
     private ApiInfo apiInfo() {
