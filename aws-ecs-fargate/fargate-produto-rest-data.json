@@ -36,7 +36,7 @@
       "memoryReservation": 1000,
       "volumesFrom": [],
       "stopTimeout": null,
-      "image": "948022190546.dkr.ecr.us-east-1.amazonaws.com/repo-fiap:latest",
+      "image": "948022190546.dkr.ecr.us-east-1.amazonaws.com/repo-fiap:v1",
       "startTimeout": null,
       "firelensConfiguration": null,
       "dependsOn": null,
