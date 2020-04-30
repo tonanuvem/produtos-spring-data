@@ -28,6 +28,10 @@ b) Rodar aplicação em conteiner:
 
 > http://localhost:8080/swagger-ui.html
     
+### Spring Initializr utilizado:
+
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.2.6.RELEASE&packaging=jar&jvmVersion=1.8&groupId=fiap&artifactId=datarest&name=datarest&description=FIAP%20project%20for%20Spring%20Boot&packageName=fiap.datarest&dependencies=lombok,hateoas,data-rest,data-jpa,web,h2,devtools 
+
 ### References
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
